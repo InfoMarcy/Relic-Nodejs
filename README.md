@@ -18,11 +18,13 @@ Package.json
 
 
 
-copy newrelic.js to root and change
+copy newrelic.js to root and change: 
+
   app_name: ['zamora'],
   /**
    * Your New Relic license key.
    */
+
   license_key: '5e3044e2453885933ad90399c0ce538b1e3ddc69',
 
 
